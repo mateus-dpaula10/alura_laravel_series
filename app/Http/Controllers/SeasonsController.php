@@ -2,9 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Season;
 use App\Models\Series;
-use Illuminate\Http\Request;
 
 class SeasonsController extends Controller
 {
